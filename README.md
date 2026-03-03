@@ -47,3 +47,11 @@ Writing
 
 I share insights about iOS and Swift development on Medium
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi10aggarwal&show_icons=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?pallavi10aggarwal=yourusername&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pallavi10aggarwal&theme=radical)
+
